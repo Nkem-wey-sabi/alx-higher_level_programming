@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def safe_print_division(a, b):
     '''
-    Safely prints the quotient of two integers
+    Safe to print the quotient of two integers
 
     Parameters:
     a (int): The first integer

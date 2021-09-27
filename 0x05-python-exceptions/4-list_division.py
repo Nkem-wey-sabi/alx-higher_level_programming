@@ -9,7 +9,7 @@ def list_division(my_list_1, my_list_2, list_length):
     list_length (int): The length of the items to divide
 
     Returns:
-    A new list consisting of the result of the divisions
+    A new list containing the result of the divisions
     '''
     my_list_res = []
     for i in range(list_length):

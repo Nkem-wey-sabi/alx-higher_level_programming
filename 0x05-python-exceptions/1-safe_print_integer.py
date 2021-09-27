@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def safe_print_integer(value):
     '''
-    Safely prints an integer
+    Safe to prints an integer
 
     Parameters:
     value (int): The integer to print

@@ -4,7 +4,7 @@ def safe_print_list_integers(my_list=[], x=0):
     Safely prints the integer elements of a list
 
     Parameters:
-    my_list (list): The list containing the elements to be printed
+    my_list (list): The list of all the elements to be printed
     x (int): The number of elements to print
 
     Returns:

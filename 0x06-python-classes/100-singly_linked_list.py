@@ -2,6 +2,7 @@
 '''A module for working with singly linked lists.
 '''
 
+
 class Node:
     '''Represents a node in a singly linked list.
     '''

@@ -74,7 +74,7 @@ def group_exists(group):
 
 
 def build_solution(row, group):
-    '''Builds a solution for the n queens problem.
+    '''Builds a solution for the n number of queens problem.
 
     Args:
         row (int): The current row in the chessboard.
